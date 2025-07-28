@@ -55,7 +55,7 @@ body {
   font-family: var(--font-main);
   margin: 0;
   padding: 0;
-  font-size:medium;
+  font-size:1.1rem;
   color: var(--text-color);
   background-color: var(--lighter);
   min-height: 100vh;
@@ -1158,6 +1158,7 @@ textarea.form-control {
 
 .info-content {
   flex: 1;
+  font-size: 1.1rem;
 }
 
 .info-title {
@@ -1470,7 +1471,7 @@ textarea.form-control {
 .rules-content {
   max-width: 800px;
   margin: 0 auto;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 
 .rules-list {
